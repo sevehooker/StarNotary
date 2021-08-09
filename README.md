@@ -2,11 +2,11 @@
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
 ### Token
-Name: Battle
+Name: Battle  
 Symbol: He
 
 ### Versions
-Truffle: 5.4.2
+Truffle: 5.4.2  
 OpenZeppelin: 2.3.0
 
 ### ToDo
